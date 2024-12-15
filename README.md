@@ -76,7 +76,7 @@ TODO
 
 ![image-20241215121838345](images/image-20241215121838345.png)
 
-##### 3.2.6按钮（Button/FcuButton）
+##### 3.2.6按钮（Button）
 
 如果希望在导入到 Unity 时，能够将按钮脚本自动附加到按钮的 **GameObject** 上，需要在 **Figma** 中的按钮名称前加上 **"btn"** 标签。
 
@@ -136,10 +136,20 @@ TODO
 
 #### 3.3在Unity端
 
+在使用Figma Converter for Unity插件前，需要完成一些准备工作：安装依赖的包，添加Figma账户认证信息等，如下是在一个新的项目中使用该插件的详细步骤
+
+1. 安装"Json.NET"
+2. 导入"Figma Converter for Unity"到资产中
+3. 在场景中新建一个空的游戏物体，并在其上通过搜索组件添加一个"FigmaConverterUnity"脚本
+
+#### 3.4修改布局和名称后的UI原型（部分）
+
+<img src="images/image-20241215234022435.png" alt="image-20241215234022435" style="zoom:50%;" />
+
 ### 4.Unity app原型说明
 
-摄像机尺寸
+#### 4.1设置摄像机尺寸
 
-交互代码编写
+#### 4.2交互代码编写
 
-打包成安卓APK
+#### 4.3打包成安卓APK文件
