@@ -22,7 +22,11 @@
 
 #### Software
 
-Software中提供了视频里演示的软件原型HeartMelody的Unity工程源码
+Software目录中提供了视频里演示的软件原型HeartMelody的Unity工程源码
+
+#### Docs
+
+Docs目录中提供了Figma Converter for Unity插件作者编写的面向设计师和开发者的使用说明
 
 #### images
 
@@ -154,7 +158,7 @@ TODO
 
 TODO
 
-以上为了更优雅的使用该插件在Figma端的需要遵循的设计规范，还有更多的细节可以参考插件作者所写的[Manual for designers.pdf]()
+以上为了更优雅的使用该插件在Figma端的需要遵循的设计规范，还有更多的细节可以参考插件作者所写的[Manual for designers.pdf](Docs\Manual for designers.pdf)
 
 #### 3.3在Unity端
 
@@ -202,7 +206,7 @@ TODO
 
 <img src="images/image-20241216113815348.png" alt="image-20241216113815348" style="zoom:50%;" />
 
-以上是该插件最重要的使用方式，还有更多的细节可以参考插件作者所写的[Manual for developers.pdf]()
+以上是该插件最重要的使用方式，还有更多的细节可以参考插件作者所写的[Manual for developers.pdf](Docs\Manual for developers.pdf)
 
 #### 3.4修改布局和名称后的UI原型（部分）
 
