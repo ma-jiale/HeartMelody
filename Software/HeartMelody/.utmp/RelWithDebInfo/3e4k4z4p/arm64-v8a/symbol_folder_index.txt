@@ -1,0 +1,1 @@
+D:\Repos\HeartMelody\Software\HeartMelody\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\3e4k4z4p\obj\arm64-v8a

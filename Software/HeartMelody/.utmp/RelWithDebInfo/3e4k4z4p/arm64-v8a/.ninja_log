@@ -1,0 +1,12 @@
+# ninja log v5
+53	408	7560214180030334	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	c25b416f1ab90c11
+409	687	7560214182715682	D:/Repos/HeartMelody/Software/HeartMelody/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3e4k4z4p/obj/arm64-v8a/libswappywrapper.so	387a549f886c4ff
+29	1271	7560214188652866	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	53c45bc35346e986
+9	1300	7560214188985812	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1aa270848f4c2603
+45	1310	7560214189093509	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	921eae1a65db7720
+22	1361	7560214189615538	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c75b3964baa31598
+37	1394	7560214189909680	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8efb886c1a8ce983
+1	1473	7560214190712735	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d89db23b33816486
+15	1615	7560214192111068	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4d625d9ba7159728
+6	1740	7560214193351286	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f4c07c3c67a4c380
+1741	1867	7560214194687646	D:/Repos/HeartMelody/Software/HeartMelody/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3e4k4z4p/obj/arm64-v8a/libgame.so	d5004ac1cc363a98
