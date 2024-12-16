@@ -6,7 +6,27 @@
 
 ### 更新说明：
 
+**2024.12.15更新**
+
+- 新增README.md
+- 在README.md新增Figma Converter for Unity在Figma端的需要遵循的设计规范
+- 新增Unity工程源码
+- 为APP原型新增交互逻辑
+
+**2024.12.16更新**
+
+- 在README.md新增Figma Converter for Unity在Unity端的使用方法
+- 优化APP原型的UI布局
+
 ### 1.项目文件说明
+
+#### Software
+
+Software中提供了视频里演示的软件原型HeartMelody的Unity工程源码
+
+#### images
+
+images目录中存放REAMD.md中链接的插图
 
 ### 2.Figma UI原型说明
 
@@ -134,13 +154,55 @@ TODO
 
 TODO
 
+以上为了更优雅的使用该插件在Figma端的需要遵循的设计规范，还有更多的细节可以参考插件作者所写的[Manual for designers.pdf]()
+
 #### 3.3在Unity端
 
 在使用Figma Converter for Unity插件前，需要完成一些准备工作：安装依赖的包，添加Figma账户认证信息等，如下是在一个新的项目中使用该插件的详细步骤
 
+##### 3.3.1安装依赖的包
+
 1. 安装"Json.NET"
 2. 导入"Figma Converter for Unity"到资产中
-3. 在场景中新建一个空的游戏物体，并在其上通过搜索组件添加一个"FigmaConverterUnity"脚本
+
+##### 3.3.2新建"FigmaConverterUnity"脚本对象
+
+- 在场景中新建一个空的游戏物体，并在其上通过搜索组件添加一个"FigmaConverterUnity"脚本
+
+##### 3.3.3添加Figma账户认证信息
+
+1. 下面添加Figma账户认证信息，点击这个脚本上的设置按钮
+
+   <img src="images/image-20241216112915594.png" alt="image-20241216112915594" style="zoom:50%;" />
+
+2. 打开`Figma AUTH`页面点击`Sign In With Web Browser`按钮
+
+   <img src="images/image-20241216112943093.png" alt="image-20241216112943093" style="zoom:50%;" />
+
+3. 在浏览器中点击`Allow access`按钮
+
+<img src="images/image-20241216112953517.png" alt="image-20241216112953517" style="zoom:50%;" />
+
+##### 3.3.4导入Figma框架（Frame）
+
+1. 复制你所要导入的Figma框架所在的项目（Project）的链接到下图框中
+   链接示例: https://www.figma.com/file/XXXXXXXXXXXXXXXXX..
+
+<img src="images/image-20241216113301877.png" alt="image-20241216113301877" style="zoom:50%;" />
+
+2. 点击下载按钮获得该项目中所有页面和框架（frames）的列表。
+
+<img src="images/image-20241216113456931.png" alt="image-20241216113456931" style="zoom:50%;" />
+
+<img src="images/image-20241216113548213.png" alt="image-20241216113548213" style="zoom:50%;" />
+
+3. 选择想要导入的框架（frames），点击导入按钮导入，在导入成功后你将在控制台中看到“Import complete!”
+
+<img src="images/image-20241216113651442.png" alt="image-20241216113651442" style="zoom:50%;" />
+
+<img src="images/image-20241216113815348.png" alt="image-20241216113815348" style="zoom:50%;" />
+
+以上是该插件最重要的使用方式，还有更多的细节可以参考插件作者所写的[Manual for developers.pdf]()
 
 #### 3.4修改布局和名称后的UI原型（部分）
 
@@ -150,6 +212,12 @@ TODO
 
 #### 4.1设置摄像机尺寸
 
+TODO
+
 #### 4.2交互代码编写
 
+TODO
+
 #### 4.3打包成安卓APK文件
+
+TODO
