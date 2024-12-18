@@ -2,7 +2,7 @@
 
 > 本项目是作者在学习Unity时的一个实践项目。本项目主要内容是使用Figma Converter for Unity插件，将作者在《产品信息架构》课程上和组员一起完成的一款解压手机应用UI原型：心韵从Figma（一款UI原型制作软件）中导入到Unity中打包成一个可以在手机上运行的应用原型。
 >
-> 视频介绍：[使用Figma Converter for Unity插件将UI原型变为应用！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1eoBKYkEEH/?spm_id_from=333.999.list.card_archive.click&vd_source=bf08880c4c4d8fdcca4d17ed2ee821fe)
+> 视频介绍：[使用Figma Converter for Unity插件将UI原型变为应用！](https://www.bilibili.com/video/BV1eoBKYkEEH/?spm_id_from=333.999.list.card_archive.click&vd_source=bf08880c4c4d8fdcca4d17ed2ee821fe)
 
 ### 更新说明：
 
